@@ -58,3 +58,4 @@ smartadserver.com, 1692, RESELLER
 adcolony.com, c490f6e7399a25d6, RESELLER, 1ad675c9de6b5176
 loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
 mars.media, 1010380, RESELLER, 8624339f102fb076
+facebook.com, 792087124832546, DIRECT, c3e20eee3f780d68
