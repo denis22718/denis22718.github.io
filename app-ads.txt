@@ -1339,3 +1339,10 @@ openx.com, 540543195, RESELLER
 bidmachine.io, 138, RESELLER
 pokkt.com, 7606, RESELLER
 marversal.com, 116, RESELLER
+
+
+
+
+
+
+google.com, pub-6728933018033303, DIRECT, f08c47fec0942fa0
