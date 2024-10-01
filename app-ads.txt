@@ -1865,7 +1865,7 @@ algorix.co, 60216, RESELLER, 5b394c12fea27a1d
 indexexchange.com, 184738, RESELLER
 video.unrulymedia.com, 115018688080045007, RESELLER
 
-#app-ads.txt Bigo Ads 01/07/2024
+#app-ads.txt Bigo Ads 01/10/2024
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
@@ -1984,7 +1984,17 @@ themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 2464975885, RESELLER
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
+risecodes.com, 66b89f832f275900013903e2, RESELLER
+video.unrulymedia.com, 906352066, RESELLER
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
+appnexus.com, 6849, RESELLER
+pubmatic.com, 159277, RESELLER,
+pubmatic.com, 159382, RESELLER,
+pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
+openx.com, 543878511, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
+inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7,RESELLER,83e75a7ae333ca9d
+loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
+contextweb.com,563521, RESELLER, 89ff185a4c4e857c
 bigo.sg, 1114454, DIRECT
-
-
-google.com, pub-6728933018033303, DIRECT, f08c47fec0942fa0
